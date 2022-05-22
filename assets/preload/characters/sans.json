@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				87,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "note sing left"
+		},
+		{
+			"offsets": [
+				-185,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spooky sing right"
+		},
+		{
+			"offsets": [
+				-153,
+				-143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spooky DOWN note"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": [
+				0,
+				2,
+				6
+			]
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-92,
+				19
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spooky UP NOTE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans",
+	"position": [
+		-135,
+	    30
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		218,
+		218,
+		218
+	],
+	"camera_position": [
+		-450,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
